@@ -20,7 +20,7 @@ User reports that the computer has become noticeably slow. Applications take lon
 2. Restarted the computer.
 3. Opened Task Manager to check CPU, memory, and disk utilization.
 4. Checked the available disk space on the system drive.
-5.Reviewed Startup apps in Task Manager and identified unnecessary applications configured to launch at startup.
+5. Reviewed Startup apps in Task Manager and identified unnecessary applications configured to launch at startup.
 6. Checked Windows Update and confirmed the systemwas up to date.
 7. Ran a Windows Security quick scan to check for potential malware or other security issues.
 
