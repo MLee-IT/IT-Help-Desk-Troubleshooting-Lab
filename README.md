@@ -70,36 +70,27 @@ Each ticket documents a structured troubleshooting process, including:
 
 ## Troubleshooting Methodology
 
-My general troubleshooting process:
+The troubleshooting process used throughout this project follows a structured approach:
 
-1. Identify the problem
-2. Gather information from the user
-3. Reproduce or verify the issue
-4. Check basic and common causes
-5. Isolate the affected component, service, or configuration
-6. Develop and test posible causes
-7. Apply the appropriate solution
-8. Verify that the issue is resolved
-9. Document the findings and resolution
-10. Escalate when the issue requires additional support
+Identify -> Gather Information -> Verify -> Isolate -> Resolve -> Verify -> Document -> Escalate When Necessary
+
+Each ticket demonstrates how a technician can gather information, test possible causes, identify the issue, apply an appropriate solution, and verify that the problem has been resolved.
+
+## Documentation
+
+Additional documentation is available in the 'docs' directory
+
+- 'troubleshooting-methodology.md' - General troubleshooting methodology used throughout the lab.
+- 'tools-and-commands.md' - Common Windows tools, networking concepts, and command-line utilities used during troubleshooting.
 
 ## Project Goals
 
-This lab demonstrates practical IT support skills through realistic troubleshooting scenarios and detailed technical documentation.
+This project was created to strengthen practical IT support skills and demonstrate the ability to approach technical problems systematically.
 
-The project focuses on demonstrating:
-
-- Structured troubleshooting
-- Technical problem-solving
-- End-user support
-- Windows administration concepts
-- Networking fundamentals
-- Hardware and software troubleshooting
-- Security awareness
-- Clear technical documentation
-- Issue resolution and verification
-- Appropriate escalation when necessary
+The lab focuses on realistic help desk scenerios involving end users, Windows systems, hardware, software, networking, security, and technical documentation.
 
 ## Portfolio Purpose
 
-This project was created as a hands-on demonstration of IT support and troubleshooting skills for entry-level and junior IT support opportunities.
+This project serves as a hands-on demonstration of IT troubleshooting and technical support skills for entry-level and intermediate IT suppport opportunities.
+
+It is intended to demonstrate practical problem-solving ability beyond certifications and theoretical knowledge.
